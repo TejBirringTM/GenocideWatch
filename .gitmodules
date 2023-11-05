@@ -1,3 +1,6 @@
 [submodule "api"]
 	path = api
 	url = git@github.com:TejBirringTM/GenocideWatch-API.git
+[submodule "app"]
+	path = app
+	url = git@github.com:TejBirringTM/GenocideWatch-App.git
