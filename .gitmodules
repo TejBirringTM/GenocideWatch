@@ -4,3 +4,6 @@
 [submodule "app"]
 	path = app
 	url = git@github.com:TejBirringTM/GenocideWatch-App.git
+[submodule "functs"]
+	path = functs
+	url = git@github.com:TejBirringTM/GenocideWatch-Functs.git
